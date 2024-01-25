@@ -1,3 +1,3 @@
 # POKE BOWL
 
-<img src="poke.png" alt="Poke QR code" width="200"/>
+<img src="assets/poke.png" alt="Poke QR code" width="300"/>
