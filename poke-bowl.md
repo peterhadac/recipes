@@ -1,3 +1,3 @@
 # POKE BOWL
 
-![Poke QR code](poke.png)
+<img src="poke.png" alt="Poke QR code" width="200"/>
