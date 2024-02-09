@@ -1,6 +1,6 @@
 # Teriyaki kuracie mäso s brokolicou
 
-|           |        |
+|Kľúč       |Hodnota |
 |-----------|--------|
 |Kcal       |429 KCal|
 |Sacahridy  |23 g    |
