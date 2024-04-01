@@ -2,11 +2,11 @@
 
 |Kľúč       |Hodnota |
 |-----------|--------|
-|Kcal       |429 KCal|
-|Sacahridy  |23 g    |
-|Vláknina   |5 g     |
-|Bielkoviny |55 g    |
-|Tuky       |12 g    |
+|Kcal       |        |
+|Sacahridy  |        |
+|Vláknina   |        |
+|Bielkoviny |        |
+|Tuky       |        |
 
 ## Suroviny
 
