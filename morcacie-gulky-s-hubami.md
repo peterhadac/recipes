@@ -1,4 +1,4 @@
-# Poké bowl
+# Morčacie guľky s hubami
 
 |Kľúč       |Hodnota |
 |-----------|--------|

@@ -1,4 +1,4 @@
-# Poké bowl
+# Grécky šalát
 
 |Kľúč       |Hodnota |
 |-----------|--------|
