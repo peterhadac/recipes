@@ -29,7 +29,7 @@
     {{ $displaySidebar := false }}
     {{ range .Site.Params.mainSections }}
     {{ if eq $.Section . }}
-    {{ $displaySidebar = true }}
+    {{ $displaySidebar = false }}
     {{ end }}
     {{ end }}
 
