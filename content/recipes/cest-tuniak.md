@@ -1,3 +1,8 @@
+---
+title: 'Cestoviny so zeleninou a tuniakom'
+date: 2018-11-28T15:14:39+10:00
+--- 
+
 # Cestoviny so zeleninou a tuniakom
 
 |Kľúč       |Hodnota |
