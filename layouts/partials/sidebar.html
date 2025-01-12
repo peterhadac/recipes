@@ -3,7 +3,7 @@
   <h4>{{ .Section | humanize }}</h4>
   <ul>
     {{ range where .Site.RegularPages "Section" .Section }}
-    <li class="{{ if eq .File.UniqueID $currentNode.File.UniqueID }}active {{ end }}">
+    <li class="{{ if eq .File $currentNode.File }}active {{ end }}">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
     {{ end }}
